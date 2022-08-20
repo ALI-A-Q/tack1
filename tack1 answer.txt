@@ -1,0 +1,33 @@
+1-Can we convert the str to int
+No because we can't move str to int
+2-Can we use semi colon ; with python
+No, we can't because Python understands the semicolon
+3-Python is interpreted or compiled
+Python is interpreted
+4=What is the differences between low level & high level
+ low level  =The language is difficult to apply like (0.1) and (assembly language)
+high level=It can understand what you write in programming like (c++, javi, python)
+5-What is the differences between = , ==
+(=)is add to variable <<>>>(==)same ask if equal to
+6-What do we mean by using !=
+(!=)same not equal 
+7-What is the operator precedence
+(1-Arithmetic operators 2-Assignment operators 3-Comparison operators)
+8-Can we divide 11 by 3 and get an integer number
+yes use (//)
+9-What is the differences between all , and
+all write one time put and need write between variables
+10-What is the differences between any , or
+or write one time put (or) need write between variables
+11-If we need all the conditions to be true we will use
+elif
+12-What is the differences between if , elif
+(if)shot be conditions is true but (elif) same else if >>is if not true bt i.have more conditions
+13-Can we use more than one elif
+yes
+Can we use more than one else
+yes
+14-in elif , python will check all the conditions no matter what 
+no first conditions is true is out
+15-in elif we use else for
+yes because else out of coding
